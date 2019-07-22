@@ -1,3 +1,3 @@
 # Codecademy Boss Machine
-Project from Codecademy. Code written contained in api.js, server.js, 
-and checkMillionare.js.
+Project from Codecademy. Code written contained in api.js, server.js,
+minionRouter.js, ideaRouter.js, meetingRouter.js, and checkMillionare.js.
